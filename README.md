@@ -25,9 +25,9 @@
     <br />
     <a href="https://github.com/near-examples/readme-template">View Demo</a>
     ·
-    <a href="https://github.com/near-examples/readme-template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/near-examples/readme-template/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
     ·
-    <a href="https://github.com/near-examples/readme-template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/near-examples/readme-template/issues/new?labels=enhancement&template=request.md">Request Feature</a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://near.org)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `near-examples`, `readme-template`.
+Here's a blank template to get started: To avoid retyping too much info, search and replace with your text editor for the following: `near-examples`, `readme-template`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
