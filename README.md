@@ -37,7 +37,7 @@
   <b>Table of Contents</b>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">Project Overview</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -56,11 +56,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project Overview
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://near.org)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `near-examples`, `readme-template`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `near-examples`, `readme-template`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,16 +80,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/near-examples/readme-template.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -103,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [NEAR Documentation](https://docs.near.org)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,34 +127,33 @@ See the [open issues](https://github.com/near-examples/readme-template/issues) f
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this project better, please fork the repository and create a pull request. You can also simply open an issue with the `enhancement` tag.
+Don't forget to give the project a star! ⭐ Thanks again! 🙏
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Check our [Contributing guidelines](CONTRIBUTING.md) and the community [Code of Conduct](CODE_OF_CONDUCT.md) for additional details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+[![DEVHUB](https://img.shields.io/badge/DEV_HUB-03BE09?style=for-the-badge)](https://neardevhub.org/)
+[![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502?style=for-the-badge)](https://bit.ly/near-dev-calendar)
+[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303?style=for-the-badge)](https://t.me/addlist/VyVjNaP190JlOGMx)
+[![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5?style=for-the-badge)](https://newsletter.neardevhub.org/)
+[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple?style=for-the-badge)](https://github.com/orgs/near/discussions/new?category=dev-feedback)
 
-Project Link: [https://github.com/near-examples/readme-template](https://github.com/near-examples/readme-template)
+- [Developer Name](https://github.com/github_username)
+- [Your Name](https://github.com/github_username)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
